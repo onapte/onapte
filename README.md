@@ -4,7 +4,7 @@ I'm Onkar Apte.
 
 - 🔭 I’m currently a computer science junior
 - 🌱 I’m currently exploring Artificial Intelligence
-- 📫 How to reach me: Discord - candidBeast#3481 | [LinkedIn](https://www.linkedin.com/in/onapte)
+- 📫 Let's connect! Discord - candidBeast#3481 | [LinkedIn](https://www.linkedin.com/in/onapte)
 - 📗 Here's my [portfolio](https://onkarapte.vercel.app/)
 
 ![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
