@@ -21,4 +21,4 @@ I'm Onkar Apte.
 <br>
 <br>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
