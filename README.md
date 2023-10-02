@@ -4,7 +4,9 @@ I'm Onkar Apte.
 
 - 🔭 I’m in my senior year majoring in Computer Science and Engineering
 - 🌱 I’m currently working on federated learning
-- 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/onapte)  
+- 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/onapte)
+
+![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
 
 [![Onkar Apte's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=onapte&langs_count=5&theme=tokyonight)]()
 
@@ -21,4 +23,3 @@ I'm Onkar Apte.
 <br>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
