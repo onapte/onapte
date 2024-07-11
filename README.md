@@ -2,9 +2,8 @@
 
 I'm Onkar Apte.
 
-- 🔭 I’m in my senior year majoring in Computer Science and Engineering
+- 🔭 I’m a recent graduate in Computer Science and Engineering
 - 🌱 I’m currently working on federated learning
-- 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/onapte)
 
 ![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
 
@@ -14,9 +13,9 @@ I'm Onkar Apte.
   <img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width='40%'>
   <br>
 
-- I enjoy contemplating approaches that diverge from conventional thought.
-- I like to figure out the math before programming any deep learning concept.
-- I mainly use PyTorch for programming deep learning models.
+- I enjoy contemplating uncommon approaches.
+- I often realize that a deep learning concept is just math.
+- I use PyTorch for implementation.
 
 </div>
 <br>
