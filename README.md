@@ -2,8 +2,8 @@
 
 I'm Onkar Apte.
 
-- 🔭 I’m a recent graduate in Computer Science and Engineering
-- 🌱 I’m currently working on federated learning
+- 🔭 I’m a CS Graduate Student
+- 🌱 I’m currently working on Geospatial ML
 
 ![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
 
