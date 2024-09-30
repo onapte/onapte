@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-I'm Onkar Apte.
+I'm Onkar Apte!
 
 - 🔭 I’m a CS Graduate Student
 - 🌱 I’m currently working on Geospatial ML
