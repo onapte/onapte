@@ -7,4 +7,4 @@ I'm Onkar Apte!
 
 ![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
 
-[![Onkar Apte's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=onapte&langs_count=5&hide=jupyter_notebook&theme=tokyonight)]()
+[![Onkar Apte's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=onapte&langs_count=5&hide=jupyter%20notebook&theme=tokyonight)]()
