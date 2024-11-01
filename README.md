@@ -9,13 +9,7 @@ I'm Onkar Apte! I am open to opportunities across various domains, including Sof
 
 [![Onkar Apte's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=onapte&langs_count=5&hide=jupyter%20notebook&theme=tokyonight&show_icons=true)]()
 
-## Selected Projects
-
-### ExpenAI
-*Technologies*: Node.js, TensorFlow.js, JavaScript, MongoDB, HTML/CSS, Postman  
-*Repository*: **Private**  
-- Developed a sophisticated expense tracking platform that offers real-time tracking, data visualizations, and management of purchase history. The application features RESTful endpoints for efficient data interaction, supporting manual entry and image uploads.
-- Integrated the Mindee API for Optical Character Recognition, achieving an average precision of 95%, which enhances data extraction and editing for bills.
+## Upcoming Project
 
 ### WeMatchSports
 *Technologies*: Flask, MongoDB, Docker, Kubernetes, Apache Kafka, Bootstrap  
