@@ -7,7 +7,7 @@ I'm Onkar Apte! I am open to opportunities across various domains, including Sof
 
 ![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
 
-[![Onkar Apte's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=onapte&langs_count=5&hide=jupyter%20notebook,html,scss&theme=tokyonight&show_icons=true)]()
+[![Onkar Apte's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=onapte&langs_count=5&hide=jupyter%20notebook,html,scss,css&theme=tokyonight&show_icons=true)]()
 
 ## Upcoming Project
 
