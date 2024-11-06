@@ -6,7 +6,7 @@ I'm Onkar Apte! I am open to opportunities across various domains, including Sof
 - 🌱 I have a strong foundation in programming, machine learning, and computer vision. My skills span a variety of technologies, and I enjoy tackling complex challenges through innovative solutions.
 
 ## Updates
-- My research paper has been published in Tungsten, and has been featured in the recent papers section on their website. (25 October 2024)
+- Our research paper has been published in Tungsten, and is featured in the latest papers section on their website. (25 October 2024)
 ![image](https://github.com/user-attachments/assets/cf80e102-8257-49e7-ab08-c6923a7e7c79)
 
 ## Publications list
