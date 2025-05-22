@@ -1,6 +1,8 @@
-### Hi there!👋
+### About me
 
-- 🔭 I am a Computer Science Graduate Student with a passion for Software Engineering.
+- 🎓 Computer Science graduate student  
+- 🎾 Former nationally ranked tennis player in India  
+- 💻 Obsessed with software engineering
 
 ## Github profile statistics
 ![](https://komarev.com/ghpvc/?username=onapte&color=blueviolet)
